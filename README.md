@@ -27,17 +27,15 @@ A showcase of my journey — from models to insights that matter.
 
 ## 📌 Featured Projects  
 
-🔹 **Credit Card Fraud Detection**  
-➡ Built ML model with 98% accuracy using Logistic Regression and SMOTE.  
-🔗 [View Repo](https://github.com/Riddesh05/CreditCardFraudDetection)  
+🔹 **Sclera Features Extraction using Traditional method**  
+🔗 [View Repo](https://github.com/Riddesh05/Sclera-Features-Extraction-using-Traditional-method)  
 
-🔹 **Conjunctivitis Detection using CNN**  
-➡ Automated eye disease detection using Deep Learning on sclera images.  
-🔗 [View Repo](https://github.com/Riddesh05/ConjunctivitisDetection)  
+🔹 **E-commerce_sales_dashboard**  .  
+🔗 [View Repo](https://github.com/Riddesh05/E-commerce_sales_dashboard)  
 
 🔹 **Health Risk Analytics Dashboard**  
 ➡ Power BI dashboard analyzing health risks across multiple demographics.  
-🔗 [View Repo](https://github.com/Riddesh05/HealthRiskDashboard)  
+🔗 [View Repo](https://github.com/Riddesh05/HealthCareAnalysisDashboards)  
 
 ---
 
