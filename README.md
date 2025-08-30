@@ -45,6 +45,7 @@ A curated collection of my best work — from machine learning models to meaning
 ![Riddesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riddesh05&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddesh05&layout=compact&theme=tokyonight)  
 
+![Riddesh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riddesh05&theme=react-dark&hide_border=true&area=true)
 
 
 
