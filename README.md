@@ -16,6 +16,13 @@ An aspiring Computer Engineer | Data & Analytics Enthusiast from India
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
+## 📫 Let's Connect
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/riddesh-sonawane)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40"/>](https://www.instagram.com/riddeshsonawane/)
+
+
 # 📂 My Portfolio  
 🔍 Exploring patterns, building intelligence.
 A showcase of my journey — from models to insights that matter.
@@ -34,7 +41,6 @@ A showcase of my journey — from models to insights that matter.
 🔗 [View Repo](https://github.com/Riddesh05/E-commerce_sales_dashboard)  
 
 🔹 **Health Risk Analytics Dashboard**  
-➡ Power BI dashboard analyzing health risks across multiple demographics.  
 🔗 [View Repo](https://github.com/Riddesh05/HealthCareAnalysisDashboards)  
 
 ---
