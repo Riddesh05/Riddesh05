@@ -23,6 +23,25 @@ A curated collection of my best work — from machine learning models to meaning
 👉 [**Visit My Portfolio**](https://riddesh-portfolio-link.com)  
 
 ---
+
+
+## 📌 Featured Projects  
+
+🔹 **Credit Card Fraud Detection**  
+➡ Built ML model with 98% accuracy using Logistic Regression and SMOTE.  
+🔗 [View Repo](https://github.com/Riddesh05/CreditCardFraudDetection)  
+
+🔹 **Conjunctivitis Detection using CNN**  
+➡ Automated eye disease detection using Deep Learning on sclera images.  
+🔗 [View Repo](https://github.com/Riddesh05/ConjunctivitisDetection)  
+
+🔹 **Health Risk Analytics Dashboard**  
+➡ Power BI dashboard analyzing health risks across multiple demographics.  
+🔗 [View Repo](https://github.com/Riddesh05/HealthRiskDashboard)  
+
+---
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Riddesh05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Riddesh05&theme=dark&hide_border=false)<br/>
