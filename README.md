@@ -17,8 +17,8 @@ An aspiring Computer Engineer | Data & Analytics Enthusiast from India
 
 
 # 📂 My Portfolio  
-💡 *Crafted with curiosity, driven by data.*  
-A curated collection of my best work — from machine learning models to meaningful data insights.  
+🔍 Exploring patterns, building intelligence.
+A showcase of my journey — from models to insights that matter.
 
 👉 [**Visit My Portfolio**](https://riddesh-portfolio-link.com)  
 
@@ -45,7 +45,7 @@ A curated collection of my best work — from machine learning models to meaning
 ![Riddesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riddesh05&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddesh05&layout=compact&theme=tokyonight)  
 
-![Riddesh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riddesh05&theme=react-dark&hide_border=true&area=true)
+
 
 
 
