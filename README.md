@@ -27,7 +27,7 @@ An aspiring Computer Engineer | Data & Analytics Enthusiast from India
 🔍 Exploring patterns, building intelligence.
 A showcase of my journey — from models to insights that matter.
 
-👉 [**Visit My Portfolio**](https://riddesh-portfolio-link.com)  
+👉 [**Visit My Portfolio**](https://riddesh05.github.io/)  
 
 ---
 
